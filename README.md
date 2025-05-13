@@ -1,4 +1,4 @@
-# ✈️ FlightAutoBot – UiPath Flight Tracking Automation
+# ✈️ Flight-Finder-RPA – UiPath Flight Tracking Automation
 
 This project automates the process of searching for flights based on user inputs such as source, destination, and travel date. It retrieves relevant flight details, stores the data in an Excel file, and sends the file to the user via email. The automation includes logging and exception handling to ensure robust and seamless execution.
 
