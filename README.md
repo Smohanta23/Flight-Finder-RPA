@@ -34,4 +34,4 @@ Make sure to install these dependencies in your UiPath Studio before running the
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Smohanta23/Flight-Finder-RPA.git]
-Then navigate to "ExtractDataFromWeb.xaml" and Main.xaml" files for main workflow sequences.
+Then navigate to "ExtractDataFromWeb.xaml" and "Main.xaml" files for main workflow sequences.
