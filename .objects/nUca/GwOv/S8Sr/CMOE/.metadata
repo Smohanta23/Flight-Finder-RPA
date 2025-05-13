@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Departure",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CMOERc00xUW2AqDltNNNqQ",
+  "Reference": "mMY2i4dXc0O8_i2sBvWEgQ/CMOERc00xUW2AqDltNNNqQ",
+  "ParentRef": "mMY2i4dXc0O8_i2sBvWEgQ/S8Sregs1SUC5NfxZxTYORQ",
+  "Created": "2025-04-10T07:08:00.5603592Z",
+  "Updated": "2025-04-10T07:08:00.5603592Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

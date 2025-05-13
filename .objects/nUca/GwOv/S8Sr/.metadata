@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge MakeMyTrip - #1 Travel Website 50% OFF o",
+  "Type": "Screen",
+  "Id": "S8Sregs1SUC5NfxZxTYORQ",
+  "Reference": "mMY2i4dXc0O8_i2sBvWEgQ/S8Sregs1SUC5NfxZxTYORQ",
+  "ParentRef": "mMY2i4dXc0O8_i2sBvWEgQ/GwOvbFBtxEibiPLqUjIE3Q",
+  "Created": "2025-04-09T19:33:16.1530531Z",
+  "Updated": "2025-04-09T19:33:16.1530531Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

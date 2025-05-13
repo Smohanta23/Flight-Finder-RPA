@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TWFq5ye72EKoAKoQwGkK_w" Reference="mMY2i4dXc0O8_i2sBvWEgQ/O6893R5L10WnTyQ6YP6DGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="0209751e-e221-4f29-8217-e1486d12c1be" CvTextArea="137, 563, 91, 22" CvTextArgument="One Way" CvType="Text" DesignTimeRectangle="105, 488, 131, 31" DesignTimeScaleFactor="1.5" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl parentid='top-banner' tag='LI' type='' class='selected' aaname='One Way' check:innerText='One Way' /&gt;" Guid="aafe864a-0dd3-438b-9b57-7301e4db175a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f7160d971498a706fae0602be65d4a2c.png" xmlns="">0QQWwAPyrR0CcNfr5f1f0nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

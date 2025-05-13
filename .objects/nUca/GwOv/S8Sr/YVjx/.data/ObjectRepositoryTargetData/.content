@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="98bNNG9_Kkqb3RVbdBK9Rg" Reference="mMY2i4dXc0O8_i2sBvWEgQ/YVjxo4Q0dEWX5cyPOzkygw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="0209751e-e221-4f29-8217-e1486d12c1be" CvTextArea="117, 624, 49, 19" CvTextArgument="From" CvType="Text" DesignTimeRectangle="119, 551, 392, 25" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='abId0.9569107370242683' tag='SPAN' type='' class='lbl_input appendBottom10' aaname='From' check:innerText='From' /&gt;" Guid="29368cfe-a516-4c74-bcd1-abadfa56c70a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d18de1bba1c94a66ad848704c16f6156.png" xmlns="">0hT_HSgJlPkKwn7xI9wwhrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

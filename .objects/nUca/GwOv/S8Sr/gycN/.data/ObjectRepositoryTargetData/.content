@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7WDeyF59eEyd0qcnzE5o_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="f3383c3f-a552-475f-a048-1f36f0ac7785" CvTextArea="882, 737, 13, 19" CvTextArgument="1" CvType="Text" DesignTimeRectangle="883, 733, 12, 25" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='abId0.34256717510610435' tag='P' type='' class='' aaname='1' check:innerText='1' /&gt;" Guid="0a4939ec-dcf5-45e0-a4cf-5b0a0387a499" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6b4a6d68998fe79f624b6d5ef80ce25.png" xmlns="">0xMCnYPC7XUW1AZOSHT0W8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

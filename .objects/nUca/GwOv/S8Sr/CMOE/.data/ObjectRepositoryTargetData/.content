@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SMs_1HNZIUaJDygXKNGBEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="9448d569-80f6-41bf-8560-bad69c6ab1ac" CvElementArea="1120, 553, 27, 23" CvTextArea="1017, 555, 97, 22" CvTextArgument="Departure" CvType="ArrowButton" DesignTimeRectangle="1019, 551, 179, 25" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Departure' parentid='top-banner' tag='SPAN' /&gt;" FuzzyMatches="10000" Guid="650d5d13-f01c-4c82-92b9-c06200d15aca" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="707eb567142c14b82475e8ea4fca50b7.png" xmlns="">06FMfoYMJg0SWXhheRSMSNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

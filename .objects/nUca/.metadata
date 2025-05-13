@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday",
+  "Type": "App",
+  "Id": "nUca0vh9N0eLnIl6p_5VFg",
+  "Reference": "mMY2i4dXc0O8_i2sBvWEgQ/nUca0vh9N0eLnIl6p_5VFg",
+  "Created": "2025-04-09T19:33:15.9130712Z",
+  "Updated": "2025-04-09T19:33:15.9130712Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZU8OJo63cEK9L0fdtdaaYw" Reference="mMY2i4dXc0O8_i2sBvWEgQ/LxwJxb23AkiqN09EYCjB_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="91, 699, 451, 69" DesignTimeScaleFactor="1.5" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl aria-role='option' tag='LI' type='' class='react-autosuggest__suggestion react-autosuggest__suggestion--first' aaname='' /&gt;" Guid="655207d1-2262-4da1-a980-d9356d35ff69" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7716d6945e6f3658bbd71d93540d2893.png" xmlns="">0IATOk64xn02tAPSf-3aagA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

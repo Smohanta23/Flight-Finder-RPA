@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="KKk1Ju_GIk6sxlaSRf5bRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1102" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGpSURBVDhPnZPLLwNRFMbnL6l4LVgRFiUlHpsmJBaiNioShJ0mgrARK2JhIaISIop4pCJEhIiIBWrBlJZWaAf1ar3pE51+cq+0MjNdDDf5Mifnfud3zz2ZyzAMw7BKhYZVKk5YpQIyRbwaUhstFhvkSkMA9jgbcmUjAHHyT4oB7Fo1zpqqaGwtzYa1JEtgPChKg7O1nsbmvBTqiQGOypTgA354WRMOi9MRur7EVV8nuI5GuMcHqZF8vXs7NL43GuCZHv4FOJq0eNlcxdOyEc9riyDLoasGHwzgaWUeFnUmPYB0cKwpAB/wCTsgutH3Isid0uKQi4PfbkEk/IXL7jY8Ls2C9/tgzkvG69Y63BN66QzedjcR4cN4mDMg8vlBAd59E26H++jpPsseHM01NLaoM4QAc24iwj4v3IYB3I32U5OtshDB8zOE319pF3TxPDyTQ4Lh/gBUSbg3juEgP5UOztlaRzcJzNlSCzYnARddOtrhcblKCpAjrr0B/hOrJC8b8LgwBc/MiCRPADZxMp7etjck94/+yhViczxxbfVw9bSL84IX+a/n/A1Z+2vHyTaRGgAAAABJRU5ErkJggg==" Selector="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" Url="https://www.makemytrip.com/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="035abb5a16a1f054a31bde369ac7a672.jpg" xmlns="">00AQg8vPmoUS2BimnwRHHIA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

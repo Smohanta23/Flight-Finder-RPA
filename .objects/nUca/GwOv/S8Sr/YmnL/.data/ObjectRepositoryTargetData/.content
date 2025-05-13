@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1vQbpxnQWkOX3brHRg432g" Reference="mMY2i4dXc0O8_i2sBvWEgQ/YmnLNF85k0iSbsaBe08u_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="7c9458d8-6f31-42df-a691-0863207e614f" CvTextArea="245, 453, 67, 24" CvTextArgument="Flights" CvType="Text" DesignTimeRectangle="240, 334, 78, 121" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='*Flights*' parentid='SW' tag='SPAN' type='' class='headerIconTextAlignment chNavText darkGreyText' check:innerText='Flights' /&gt;" Guid="b4970ccc-7760-4909-8028-95d3db25f10e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7c9458d8-6f31-42df-a691-0863207e614f" CvTextArea="1674, 563, 156, 24" CvTextArgument="Domestic Flights" CvType="Text" DesignTimeRectangle="1676, 491, 154, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Domestic Flights' parentid='top-banner' tag='A' type='' class='darkGreyText' check:innerText='Domestic Flights' /&gt;" Guid="1cb62f82-ddfe-49d1-8353-d7ac2e9d50f8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="636217bf2a619ea17906267263484014.png" xmlns="">0W9wuXGdikEu7pjt2AFL70g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

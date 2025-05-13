@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CSEaxUy5h0WBqF4d3B1eJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" CVScreenId="8326e5d0-73b2-457c-a0f8-392c23c6cbca" CvTextArea="582, 608, 28, 21" CvTextArgument="To" CvType="Text" DesignTimeRectangle="541, 588, 474, 62" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl parentid='abId0.9024524886638757' tag='INPUT' type='text' class='react-autosuggest__input react-autosuggest__input--open react-autosuggest__input--focused' placeholder='To' aaname='' /&gt;" Guid="81ed04f4-15ea-4fa7-88ac-2346d9e4ee6e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8326e5d0-73b2-457c-a0f8-392c23c6cbca" CvTextArea="597, 552, 24, 19" CvTextArgument="To" CvType="Text" DesignTimeRectangle="599, 550, 362, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='abId0.46444969367509936' tag='SPAN' type='' class='lbl_input appendBottom10' aaname='To' check:innerText='To' /&gt;" Guid="78415bfe-2bfa-49f6-9108-67fc444c5e40" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7e17ba78f7468cf8a5cc71ff1a481c18.png" xmlns="">0vMCThBW9skuBWfSJKkdzoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
